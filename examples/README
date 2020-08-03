@@ -1,0 +1,8 @@
+Recommended hyper-parameters:
+n_heads=8
+n_scales=4
+n_interactions=3
+
+n_atom_basis=128
+n_gaussians=32
+n_hidden=128
