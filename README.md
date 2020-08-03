@@ -6,7 +6,7 @@
 
 3D Universal transformer is added to SchNetPack. The new module aims to enbedding molecules distinguishing complexities of fragments. 
 
-##### Currently altered models:
+##### Currently altered modules:
 schnetpack/representation/tdt.py
 
 
